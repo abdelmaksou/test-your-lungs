@@ -3,7 +3,8 @@ The project is attempt to classify respiratory diseases using CNN with MFFCs as 
 <br> 
 <br>
 ![screenshot from UI](assets/rep.png)
-* MFCCs as input features for a CNN as it is treated as a 2D image-like structure. <br>
+* MFCCs as input features for a CNN as it is treated as a 2D image-like structure.
+<br>
 <br>
 ![MFCCs Visualization](assets/mfccs.png)
 * labels are handled using one-hot encoding
