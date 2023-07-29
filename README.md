@@ -10,5 +10,5 @@ The project is attempt to classify respiratory diseases using CNN with MFFCs as 
   * activation layer is ReLU
   * a dropout value of 0.2 and MaxPooling2D are added to reduce training time and overfitting
   * last layer have softmax activation function and 6 nodes (num\_labels)
-<br>
+
 Then, the model were deployed using flask in web application that takes the audio as an input and outputs the most likely diseases and whether the results require a medical checkup or not.
